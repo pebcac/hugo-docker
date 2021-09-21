@@ -18,3 +18,4 @@ git submodule init
 git submodule update
 ```
 
+#### Original information sourced from [Humanitec](https://humanitec.com/blog/how-to-deploy-hugo-website)
